@@ -7,7 +7,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 [test on github](https://drmamadouciss.github.io/tutoriels-R/Test_2)
 
 
-[test on github](https://drmamadouciss.github.io/tutoriels-R/Introduction_R)
+[test on github](https://drmamadouciss.github.io/tutoriels-R/Introdution_R)
 
 ### Markdown
 
