@@ -9,6 +9,12 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 [test on github](https://drmamadouciss.github.io/tutoriels-R/Introdution_R)
 
+
+
+[test on github](https://drmamadouciss.github.io/tutoriels-R/affichage_graphique1)
+
+
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
