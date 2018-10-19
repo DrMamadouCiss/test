@@ -4,7 +4,10 @@ You can use the [editor on GitHub](https://github.com/DrMamadouCiss/test/edit/ma
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-[test on github](https://drmamadouciss.github.io/tuto_R/Test_2)
+[test on github](https://drmamadouciss.github.io/tutoriel-R/Test_2)
+
+
+[test on github](https://drmamadouciss.github.io/tutoriel-R/Introduction_R)
 
 ### Markdown
 
