@@ -3,7 +3,7 @@ Affichage graphique: niveau 1
 Dr Mamadou Ciss
 
 14 janvier 2019
-================
+
 
 
 -   [Fichier initial](#fichier-initial)
