@@ -1,7 +1,10 @@
 Affichage graphique: niveau 1
 ================
 Dr Mamadou Ciss
-10 octobre 2018
+
+14 janvier 2019
+================
+
 
 -   [Fichier initial](#fichier-initial)
 -   [Nuage de points](#nuage-de-points)
