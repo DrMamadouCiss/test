@@ -336,7 +336,7 @@ sd(myfile$Poids_graines,na.rm = TRUE)
 
     ## [1] 0.7228729
 
-La commande `table()` permet de compter les niveaux d'une variable (qualitative ou quantitative). Cette commande gÃ©nÃ¨re un tableau d'effectifs pour une ou deux variables.
+La commande `table()` permet de compter les niveaux d'une variable (qualitative ou quantitative). Cette commande genere un tableau d'effectifs pour une ou deux variables.
 
 ``` r
 table(myfile$Populations)
