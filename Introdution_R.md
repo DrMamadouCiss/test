@@ -262,7 +262,7 @@ myfile[c(2,4),5]
 
     ## [1] 2.56 2.65
 
-Les commandes `max(x)`, `min(x)`, `range(x)`, `sum(x)`, `diff(x)`, `prod(x)`, `mean(x)`, `median(x)` et `sd(x)` fournissent le maximum, minimum, amplitude, somme, différences, produit, moyenne, médiane et écart-type des données. Afin de considérer les données manquantes, il est nécessaire d'y inclure `na.rm = TRUE`.
+Les commandes `max(x)`, `min(x)`, `range(x)`, `sum(x)`, `diff(x)`, `prod(x)`, `mean(x)`, `median(x)` et `sd(x)` fournissent le maximum, minimum, amplitude, somme, diffÃ©rences, produit, moyenne, mÃ©diane et Ã©cart-type des donnÃ©es. Afin de considÃ©rer les donnÃ©es manquantes, il est nÃ©cessaire d'y inclure `na.rm = TRUE`.
 
 ### Moyenne d'un vecteur
 
@@ -336,7 +336,7 @@ sd(myfile$Poids_graines,na.rm = TRUE)
 
     ## [1] 0.7228729
 
-La commande `table()` permet de compter les niveaux d'une variable (qualitative ou quantitative). Cette commande génère un tableau d'effectifs pour une ou deux variables.
+La commande `table()` permet de compter les niveaux d'une variable (qualitative ou quantitative). Cette commande gÃ©nÃ¨re un tableau d'effectifs pour une ou deux variables.
 
 ``` r
 table(myfile$Populations)
