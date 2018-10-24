@@ -59,6 +59,9 @@ Nuage de points
 plot(iris$Petal.Width~iris$Petal.Length)
 ```
 
+![plot of chunk unnamed-chunk-3-1](affichage_graphique1_files/figure-markdown_github/unnamed-chunk-3-1.png)
+
+
 ``` r
 plot(iris$Petal.Width~iris$Petal.Length,xlab='Longueur petal',ylab='Largeur petal' )
 ```
