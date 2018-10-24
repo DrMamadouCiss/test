@@ -55,7 +55,7 @@ tail(iris)
 Nuage de points
 ---------------
 
-``` r
+```{r}
 plot(iris$Petal.Width~iris$Petal.Length)
 ```
 
